@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python and Minecraft Plugin Development
 - 🌱 I’m currently learning Spigot API
 - 🧐 Newb
+- 🇸🇰 Slovak
 - 📫 Reach me on discord: @Demizon#3433
 
 
