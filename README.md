@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Demizon3433
-- 👀 I’m interested in Python and Minecraft Plugin Development
-- 🌱 I’m currently learning Spigot API
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Spigot API and SQL
 - 🧐 Newb
 - 🇸🇰 Slovak
-- 📫 Reach me on discord: @Demizon#3433
+- 📫 Reach me on discord: @Demizon#4703
 
 
 <!---
