@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Demizon3433
+- 👋 Hi, I’m Demizon
 - 👀 I’m interested in Java and Web Development
 - 🌱 I’m currently learning Spring and React
 - 🧐 Newb
