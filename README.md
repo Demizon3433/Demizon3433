@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Demizon
-- 👀 I’m interested in Java and Web Development
-- 🌱 I’m currently learning Spring and React
-- 🧐 Newb
+- 👀 I’m interested in Java Development
 - 🇸🇰 Slovak
 - 📫 Reach me on discord: @Demizon#4703
