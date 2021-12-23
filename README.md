@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Demizon
+# Hello I'm Demizon
 - 👀 I’m interested in Java Development
 - 🇸🇰 Slovak
 - 📫 Reach me on discord: @Demizon#4703
