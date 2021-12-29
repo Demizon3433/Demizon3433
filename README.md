@@ -2,6 +2,7 @@
 - 👀 I’m interested in Java Development
 - 🇸🇰 Slovak
 - 📫 Reach me on discord: @Demizon#4703
+- 🧳 On vacation...
 <hr>
 
 <!--START_SECTION:waka-->
