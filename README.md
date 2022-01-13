@@ -6,13 +6,15 @@
 <hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2014%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 171 Bytes Used in GitHub's Storage 
+> 📦 172 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,11 +51,11 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Java                     2 hrs 34 mins       ████████████████████████░   96.65% 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35%
+Java                     57 mins             ███████████████████████░░   95.38% 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.62%
 
 🔥 Editors: 
-IntelliJ                 2 hrs 40 mins       █████████████████████████   100.0%
+IntelliJ                 1 hr                █████████████████████████   100.0%
 
 ```
 
