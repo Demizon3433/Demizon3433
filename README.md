@@ -5,15 +5,13 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 5 Contributions in the Year 2022
  > 
-> 📦 208 Bytes Used in GitHub's Storage 
+> 📦 209 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,5 +61,5 @@ VS Code                  9 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 07/02/2022 06:25:21 UTC
+ Last Updated on 08/02/2022 01:11:50 UTC
 <!--END_SECTION:waka-->
