@@ -5,13 +5,11 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2022%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 6 Contributions in the Year 2022
  > 
-> 📦 252 Bytes Used in GitHub's Storage 
+> 📦 253 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,5 +59,5 @@ VS Code                  1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/03/2022 06:25:52 UTC
+ Last Updated on 05/03/2022 01:19:35 UTC
 <!--END_SECTION:waka-->
