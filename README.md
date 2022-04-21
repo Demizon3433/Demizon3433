@@ -1,8 +1,9 @@
 # Hello I'm Demizon
-- 👀 I’m interested in Java Development
+- 👀 I’m interested in Java, Python, JavaScript and more...
 - 🇸🇰 Slovak
 - 📫 Reach me on discord: @Demizon#4703
-<hr>
+
+---
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
