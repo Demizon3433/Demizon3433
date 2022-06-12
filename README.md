@@ -1,5 +1,5 @@
 # Hello I'm Demizon
-- 👀 I’m interested in Java, Python, JavaScript and more...
+- 👀 I’m interested in Java, TypeScript, Python, PHP and more
 - 🇸🇰 Slovak
 - 📫 Reach me on discord: @Demizon#4703
 
