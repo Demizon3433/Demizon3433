@@ -1,5 +1,5 @@
 # Hello I'm Demizon
-- 👀 I’m interested in Java, TypeScript, Python, PHP and more
+- 👀 I’m interested in Java, TypeScript, Python, PHP and more...
 - 🇸🇰 Slovak
 - 📫 Reach me on discord: @Demizon#4703
 
@@ -67,4 +67,4 @@ VS Code                  3 mins              ░░░░░░░░░░░�
  Last Updated on 12/06/2022 01:59:35 UTC
 <!--END_SECTION:waka-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demizon3433)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demizon3433&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
