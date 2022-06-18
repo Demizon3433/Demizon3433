@@ -1,11 +1,12 @@
 # Hello I'm Demizon
-- 👀 I’m interested in Java and Full-Stack Wen development
+[![wakatime](https://wakatime.com/badge/user/6ad1949f-d6d7-44f9-9eee-c35e54cc499b.svg)](https://wakatime.com/@6ad1949f-d6d7-44f9-9eee-c35e54cc499b)
+- 👀 I’m interested in Java and Full-Stack Web development
 - 🍃 I'm currently learning NextJS
 - 🇸🇰 Slovak
 - 📫 Reach me on discord: @Demizon#4703
 
 ## My skills
-[![Skill icons](https://skillicons.dev/icons?i=java,js,ts,html,css,node,react,py,git,docker,linux&theme=dark)](https://github.com/Demizon3433)
+[![Skill icons](https://skillicons.dev/icons?i=java,js,ts,html,css,react,py,git,docker,linux,mysql,mongo&theme=dark)](https://github.com/Demizon3433) and PHP, Laravel😒
 
 ---
 
@@ -72,5 +73,3 @@ IntelliJ                 5 mins              ░░░░░░░░░░░�
 
  Last Updated on 18/06/2022 01:55:13 UTC
 <!--END_SECTION:waka-->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demizon3433&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
