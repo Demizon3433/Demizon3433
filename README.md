@@ -14,7 +14,7 @@
 
 > 🏆 246 Contributions in the Year 2022
  > 
-> 📦 564 Bytes Used in GitHub's Storage 
+> 📦 566 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,7 +66,7 @@ IntelliJ                 5 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/06/2022 01:53:18 UTC
+ Last Updated on 18/06/2022 01:55:13 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demizon3433&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
