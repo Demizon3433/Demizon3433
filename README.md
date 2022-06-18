@@ -1,7 +1,11 @@
 # Hello I'm Demizon
-- 👀 I’m interested in Java, TypeScript, Python, PHP and more...
+- 👀 I’m interested in Java and Full-Stack Wen development
+- 🍃 I'm currently learning NextJS
 - 🇸🇰 Slovak
 - 📫 Reach me on discord: @Demizon#4703
+
+## My skills
+[![Skill icons](https://skillicons.dev/icons?i=java,js,ts,html,css,node,react,py,git,docker,linux&theme=dark)](https://github.com/Demizon3433)
 
 ---
 
