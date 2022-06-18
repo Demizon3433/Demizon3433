@@ -1,7 +1,7 @@
 # Hello I'm Demizon
 [![wakatime](https://wakatime.com/badge/user/6ad1949f-d6d7-44f9-9eee-c35e54cc499b.svg)](https://wakatime.com/@6ad1949f-d6d7-44f9-9eee-c35e54cc499b)
 - 👀 I’m interested in Java and Full-Stack Web development
-- 🍃 I'm currently learning NextJS
+- 🌱 I'm currently learning NextJS
 - 🇸🇰 Slovak
 - 📫 Reach me on discord: @Demizon#4703
 
