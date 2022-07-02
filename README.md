@@ -17,7 +17,7 @@
 
 > 🏆 251 Contributions in the Year 2022
  > 
-> 📦 601 Bytes Used in GitHub's Storage 
+> 📦 602 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,14 +54,13 @@ Sunday       25 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Java                     5 mins              ███████████████████░░░░░░   78.73% 
-GitIgnore file           1 min               █████░░░░░░░░░░░░░░░░░░░░   21.27%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 01/07/2022 02:14:56 UTC
+ Last Updated on 02/07/2022 02:01:45 UTC
 <!--END_SECTION:waka-->
