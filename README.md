@@ -6,7 +6,7 @@
 - 📫 Reach me on discord: @Demizon#4703
 
 ## My skills
-[![Skill icons](https://skillicons.dev/icons?i=java,js,ts,html,css,react,py,git,docker,linux,mysql,mongo&theme=dark)](https://github.com/Demizon3433) and PHP, Laravel😒
+[![Skill icons](https://skillicons.dev/icons?i=java,js,ts,html,css,react,py,git,docker,linux,mysql,mongo&theme=dark)](https://github.com/Demizon3433) and PHP, Laravel
 
 ---
 
