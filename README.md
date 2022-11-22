@@ -17,7 +17,7 @@
 
 > 🏆 252 Contributions in the Year 2022
  > 
-> 📦 394 Bytes Used in GitHub's Storage 
+> 📦 345 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,13 +54,15 @@ Sunday       28 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   9 mins              █████████████████████░░░░   83.7% 
+TypeScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.3%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  9 mins              █████████████████████░░░░   83.7% 
+PhpStorm                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.3%
 
 ```
 
 
- Last Updated on 21/11/2022 01:52:54 UTC
+ Last Updated on 22/11/2022 01:53:45 UTC
 <!--END_SECTION:waka-->
