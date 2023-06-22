@@ -15,7 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 413 Bytes Used in GitHub's Storage 
+> 📦 414 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -52,12 +52,12 @@ Sunday                   38 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/06/2023 01:26:21 UTC
+ Last Updated on 22/06/2023 01:36:00 UTC
 <!--END_SECTION:waka-->
