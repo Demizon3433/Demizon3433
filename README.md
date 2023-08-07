@@ -52,12 +52,13 @@ Sunday                   38 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     0 secs              ██████████████████░░░░░░░   72.44 % 
+Other                    0 secs              ███████░░░░░░░░░░░░░░░░░░   27.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/08/2023 01:11:33 UTC
+ Last Updated on 07/08/2023 01:17:27 UTC
 <!--END_SECTION:waka-->
