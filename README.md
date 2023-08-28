@@ -1,9 +1,8 @@
 # Hello I'm Demizon
 [![wakatime](https://wakatime.com/badge/user/6ad1949f-d6d7-44f9-9eee-c35e54cc499b.svg)](https://wakatime.com/@6ad1949f-d6d7-44f9-9eee-c35e54cc499b)
 - 👀 I’m interested in Java and Full-Stack Web development
-- 🌱 I'm currently learning NextJS
 - 🇸🇰 Slovak
-- 📫 Reach me on discord: @Demizon#4703
+- 📫 Reach me on discord: @demizon
 
 ## My skills
 [![Skill icons](https://skillicons.dev/icons?i=java,js,ts,html,css,react,nextjs,tailwind,supabase,py,git,docker,linux,mysql,postgres,mongo&theme=dark)](https://github.com/Demizon3433)
