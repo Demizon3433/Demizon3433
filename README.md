@@ -51,14 +51,12 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TypeScript               11 mins             ███████████████░░░░░░░░░░   58.49 % 
-SQL                      8 mins              ██████████░░░░░░░░░░░░░░░   41.51 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/12/2023 00:59:42 UTC
+ Last Updated on 30/12/2023 01:07:55 UTC
 <!--END_SECTION:waka-->
