@@ -16,8 +16,6 @@
 
 > 📦 2.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -62,5 +60,5 @@ PhpStorm                 5 hrs 12 mins       ███████████�
 ```
 
 
- Last Updated on 16/05/2024 01:12:17 UTC
+ Last Updated on 17/05/2024 01:12:25 UTC
 <!--END_SECTION:waka-->
