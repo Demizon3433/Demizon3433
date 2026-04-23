@@ -24,6 +24,43 @@
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 22/04/2026 02:54:18 UTC
+```text
+🌞 Morning                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+🌆 Daytime                273 commits         ███████████░░░░░░░░░░░░░░   45.05 % 
+🌃 Evening                266 commits         ███████████░░░░░░░░░░░░░░   43.89 % 
+🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   160 commits         ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+Tuesday                  61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Wednesday                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Thursday                 71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Friday                   130 commits         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Saturday                 56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Sunday                   47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Brussels
+
+💬 Programming Languages: 
+TypeScript               21 mins             █████████████░░░░░░░░░░░░   50.63 % 
+SQL                      18 mins             ██████████░░░░░░░░░░░░░░░   41.83 % 
+HTTP Request             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+🔥 Editors: 
+PhpStorm                 43 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 23/04/2026 02:57:01 UTC
 <!--END_SECTION:waka-->
