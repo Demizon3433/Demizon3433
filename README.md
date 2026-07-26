@@ -24,6 +24,46 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 25/07/2026 02:54:16 UTC
+```text
+🌞 Morning                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+🌆 Daytime                278 commits         ███████████░░░░░░░░░░░░░░   45.50 % 
+🌃 Evening                266 commits         ███████████░░░░░░░░░░░░░░   43.54 % 
+🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   160 commits         ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+Tuesday                  61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Wednesday                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Thursday                 73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Friday                   133 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Saturday                 56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Sunday                   47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Brussels
+
+💬 Programming Languages: 
+SQL                      2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.00 % 
+TypeScript               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+
+🔥 Editors: 
+PhpStorm                 3 hrs 7 mins        █████████████░░░░░░░░░░░░   52.91 % 
+VS Code                  1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+ChatGPT                  1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+```
+
+
+ Last Updated on 26/07/2026 03:20:16 UTC
 <!--END_SECTION:waka-->
