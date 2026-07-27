@@ -51,19 +51,19 @@ Sunday                   47 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-SQL                      2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.00 % 
-TypeScript               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+SQL                      2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.89 % 
+TypeScript               1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 
 🔥 Editors: 
-PhpStorm                 3 hrs 7 mins        █████████████░░░░░░░░░░░░   52.91 % 
-VS Code                  1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-ChatGPT                  1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+PhpStorm                 3 hrs 5 mins        █████████████░░░░░░░░░░░░   52.28 % 
+VS Code                  1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   30.25 % 
+ChatGPT                  58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 
 
- Last Updated on 26/07/2026 03:20:16 UTC
+ Last Updated on 27/07/2026 03:30:16 UTC
 <!--END_SECTION:waka-->
