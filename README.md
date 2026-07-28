@@ -10,6 +10,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2030%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-162.62%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -64,6 +66,28 @@ ChatGPT                  58 mins             ████░░░░░░░�
 Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 03:30:16 UTC
+```text
+⏱ AI Coding Time: 2 hrs 58 mins (50.4%)
+
+✍️ 1,124 lines written by AI, 153 lines written by hand (88.02% AI-written)
+
+🔤 42,463,752 Input Tokens, 197,005 Output Tokens
+
+💵 $233.30 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 30 AI Prompts
+
+GPT                      1,251 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 88.02% of written lines came from AI
+📚 Verbose Prompter — average 2,525 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 39.96% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 02:46:36 UTC
 <!--END_SECTION:waka-->
