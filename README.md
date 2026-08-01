@@ -10,13 +10,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-162.62%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.9 kB Used in GitHub's Storage 
+> 📦 3.0 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -53,42 +53,42 @@ Sunday                   47 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TypeScript               4 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.87 % 
-Other                    3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-SQL                      2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-GitIgnore file           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Other                    4 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.10 % 
+TypeScript               4 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.75 % 
+SQL                      2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+GitIgnore file           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 Editors: 
-PhpStorm                 4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.74 % 
-VS Code                  4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.31 % 
-ChatGPT                  3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-Unknown Editor           1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-PyCharm                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+VS Code                  4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.34 % 
+ChatGPT                  4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+PhpStorm                 4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+Unknown Editor           1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+PyCharm                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 15 mins (61.58%)
+⏱ AI Coding Time: 9 hrs 11 mins (63.83%)
 
-✍️ 4,604 lines written by AI, 982 lines written by hand (82.42% AI-written)
+✍️ 4,604 lines written by AI, 978 lines written by hand (82.48% AI-written)
 
-🔤 96,277,654 Input Tokens, 629,128 Output Tokens
+🔤 98,628,551 Input Tokens, 678,378 Output Tokens
 
-💵 $496.80 Estimated AI Cost This Week
+💵 $510.04 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 81 AI Prompts
+🧠 18 AI Sessions, 86 AI Prompts
 
 GPT                      4,650 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.42% of written lines came from AI
-📚 Verbose Prompter — average 3,846 characters per prompt
+🤖 AI-Driven — 82.48% of written lines came from AI
+📚 Verbose Prompter — average 3,683 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 23.2% of changed lines were hand-edited
+🚀 High AI Trust — 23.15% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 03:20:15 UTC
+ Last Updated on 01/08/2026 03:18:28 UTC
 <!--END_SECTION:waka-->
