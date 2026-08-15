@@ -53,26 +53,26 @@ Sunday                   47 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Python                   4 hrs 21 mins       ██████████████░░░░░░░░░░░   57.49 % 
-SQL                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-JavaScript               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   4 hrs 21 mins       ███████████████░░░░░░░░░░   58.12 % 
+SQL                      1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+JavaScript               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████░░░░░░░░░░░░   52.07 % 
-ChatGPT                  1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Codex Vscode             1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-PhpStorm                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+VS Code                  3 hrs 56 mins       █████████████░░░░░░░░░░░░   52.63 % 
+ChatGPT                  1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Codex Vscode             1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+PhpStorm                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 57 mins (39.11%)
+⏱ AI Coding Time: 2 hrs 57 mins (39.53%)
 
-✍️ 1,845 lines written by AI, 333 lines written by hand (84.71% AI-written)
+✍️ 1,845 lines written by AI, 340 lines written by hand (84.44% AI-written)
 
 🔤 2,047,902 Input Tokens, 171,169 Output Tokens
 
@@ -83,12 +83,12 @@ PyCharm                  4 mins              ░░░░░░░░░░░�
 GPT                      1,848 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.71% of written lines came from AI
+🤖 AI-Driven — 84.44% of written lines came from AI
 📚 Verbose Prompter — average 5,526 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 30.94% of changed lines were hand-edited
+🚀 High AI Trust — 31.15% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/08/2026 02:11:08 UTC
+ Last Updated on 15/08/2026 01:23:47 UTC
 <!--END_SECTION:waka-->
