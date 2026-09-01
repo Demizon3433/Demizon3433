@@ -10,7 +10,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-162.62%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -53,42 +53,41 @@ Sunday                   47 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-SQL                      2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
-JSON                     1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-TypeScript               1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Other                    56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+SQL                      4 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   40.34 % 
+Markdown                 1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+JSON                     1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+TypeScript               1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Other                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 
 🔥 Editors: 
-ChatGPT                  3 hrs 53 mins       ██████████████░░░░░░░░░░░   55.08 % 
-Codex Vscode             2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.51 % 
-PhpStorm                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+ChatGPT                  6 hrs 7 mins        █████████████░░░░░░░░░░░░   51.90 % 
+Codex Vscode             4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.99 % 
+PhpStorm                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 7 mins (86.58%)
+⏱ AI Coding Time: 10 hrs 44 mins (91.0%)
 
-✍️ 4,626 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,507 lines written by AI, 28 lines written by hand (99.49% AI-written)
 
-🔤 6,986,888 Input Tokens, 498,274 Output Tokens
+🔤 8,773,121 Input Tokens, 684,998 Output Tokens
 
-💵 $70.07 Estimated AI Cost This Week
+💵 $94.87 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 140 AI Prompts
+🧠 21 AI Sessions, 206 AI Prompts
 
-GPT                      4,842 lines         █████████████████████████   100.00 % 
+GPT                      5,736 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,111 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.49% of written lines came from AI
+📚 Verbose Prompter — average 12,493 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.73% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 04:36:50 UTC
+ Last Updated on 01/09/2026 04:18:14 UTC
 <!--END_SECTION:waka-->
