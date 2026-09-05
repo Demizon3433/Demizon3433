@@ -10,7 +10,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-162.62%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -26,6 +26,68 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 04/09/2026 03:40:58 UTC
+```text
+🌞 Morning                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+🌆 Daytime                278 commits         ███████████░░░░░░░░░░░░░░   45.50 % 
+🌃 Evening                266 commits         ███████████░░░░░░░░░░░░░░   43.54 % 
+🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   160 commits         ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+Tuesday                  61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Wednesday                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Thursday                 73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Friday                   133 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Saturday                 56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Sunday                   47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Brussels
+
+💬 Programming Languages: 
+SQL                      3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+TypeScript               2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Markdown                 1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Other                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+
+🔥 Editors: 
+ChatGPT                  5 hrs 43 mins       ████████████░░░░░░░░░░░░░   47.81 % 
+Codex Vscode             4 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.29 % 
+PhpStorm                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+PyCharm                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 57 mins (83.24%)
+
+✍️ 2,311 lines written by AI, 1,514 lines written by hand (60.42% AI-written)
+
+🔤 8,359,174 Input Tokens, 843,760 Output Tokens
+
+💵 $78.76 Estimated AI Cost This Week
+
+🧠 23 AI Sessions, 157 AI Prompts
+
+GPT                      2,443 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 60.42% of written lines came from AI
+📚 Verbose Prompter — average 14,933 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 48.87% of changed lines were hand-edited
+```
+
+
+ Last Updated on 05/09/2026 03:40:38 UTC
 <!--END_SECTION:waka-->
