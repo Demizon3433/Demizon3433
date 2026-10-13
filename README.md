@@ -53,25 +53,25 @@ Sunday                   47 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Other                    42 mins             ██████████████████░░░░░░░   73.56 % 
-JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-SQL                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other                    42 mins             ████████████████████░░░░░   78.78 % 
+JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+SQL                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Codex Vscode             23 mins             ██████████░░░░░░░░░░░░░░░   41.03 % 
-ChatGPT                  18 mins             ████████░░░░░░░░░░░░░░░░░   32.53 % 
-PhpStorm                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-PyCharm                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Codex Vscode             23 mins             ███████████░░░░░░░░░░░░░░   43.94 % 
+ChatGPT                  18 mins             █████████░░░░░░░░░░░░░░░░   34.84 % 
+PyCharm                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+PhpStorm                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (55.99%)
+⏱ AI Coding Time: 32 mins (59.96%)
 
-✍️ 0 lines written by AI, 378 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 272 lines written by hand (0.0% AI-written)
 
 🔤 881,277 Input Tokens, 41,393 Output Tokens
 
@@ -89,5 +89,5 @@ GPT                      104 lines           ███████████�
 ```
 
 
- Last Updated on 12/10/2026 05:07:53 UTC
+ Last Updated on 13/10/2026 06:07:28 UTC
 <!--END_SECTION:waka-->
