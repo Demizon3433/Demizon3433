@@ -16,6 +16,8 @@
 
 > 📦 3.0 kB Used in GitHub's Storage 
  > 
+> 🏆 1 Contributions in the Year 2026
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -49,13 +51,13 @@ Sunday                   47 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Other                    7 hrs 26 mins       ████████████████████░░░░░   81.08 % 
-C                        34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-C/C++                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Other                    4 hrs 9 mins        ███████████████████░░░░░░   74.37 % 
+C                        34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+C/C++                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 
 
- Last Updated on 09/11/2026 05:26:04 UTC
+ Last Updated on 10/11/2026 06:37:22 UTC
 <!--END_SECTION:waka-->
