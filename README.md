@@ -51,13 +51,13 @@ Sunday                   47 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Other                    3 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.78 % 
-TypeScript               3 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.01 % 
-SQL                      1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-HTTP Request             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Other                    2 hrs 51 mins       ██████████████░░░░░░░░░░░   56.08 % 
+TypeScript               1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+SQL                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+HTTP Request             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 
 
- Last Updated on 23/11/2026 06:36:56 UTC
+ Last Updated on 24/11/2026 09:05:16 UTC
 <!--END_SECTION:waka-->
